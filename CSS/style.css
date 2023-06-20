@@ -1,0 +1,222 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color: #24282B;
+    color:#ffffff;
+    width: 100%;
+    height: 80px;    
+   border-bottom: 10px solid #1392D4 ;
+}
+footer{
+    background-color: #1293D4 ;
+    color: white;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    background-color: #24282B;
+    padding: 10px;
+    height:0px;
+
+    margin-bottom: 20px ;
+    font-family: 'Roboto', sans-serif;
+  }
+.Diseño{
+    color:white;
+    margin-top: 20px ;
+    margin-right: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px auto;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.multimedia{
+    color:#1392D4;
+    margin-top: 20px;
+    margin-bottom: 10px auto;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.inicio{
+    color: #1392D4;
+}
+.lista:hover{
+    color:#1392D4
+}
+h2{
+    float: left;
+}
+a{
+    float:right;
+    text-decoration: none;
+    color:white;
+    margin-top: 25px;
+    margin-right: 30px ;
+    
+} 
+ul{
+    margin-bottom: 30px;
+    list-style: none;
+    margin-right: 150px;
+}
+.principio{
+    background-image: url(../images/cabecera.jpg);
+    height:600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.textoadentro{
+    color:#ffffff;
+    padding-top: 220px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.textoadentro2{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+.suscripcion{
+    background-color:#24282B ;
+    color: #ffffff;
+    height: 100px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .suscripcion button {
+    background-color: #E8491D;
+    color:#ffffff;
+    float: right;
+    margin-right: 100px;
+    margin-left: 5px;
+    margin-top: 25px;
+    padding: 15px;
+    border: none;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .suscripcion input {
+    float: right;
+    padding: 10px 40px;
+    margin-top: 31px;
+    font-size: 15px;
+  }
+.texto{
+  float: left;
+  padding-top:33px;
+  padding-left: 350px;
+  text-align: center;
+  font-size: 28px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logos{
+    margin: 50px 10px 50px 180px;
+    float: left;
+    width: 400px;
+    font-family: 'Roboto', sans-serif;
+}
+.logos img{
+    margin: 50px 10px 50px 33px;
+    width: 50%;
+    height: auto;
+    padding-left:30px;
+    padding-bottom:0px;
+}
+.nosotros{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 800px;
+    margin-left: 180px;
+    font-size: 18px;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+.nosotros2{
+    background-color: #35424A;
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.nosotros img{
+    background-position: center;
+    background-size: cover;
+    width: 800px;
+    padding-top: 40px;
+}
+.parrafo{
+  background-color: #35424A;
+  color: white;
+  margin-right: 310px;
+  margin-left: 18px;
+  margin-top: 40px;
+  width: 350px;
+  font-size: 18px;
+  float:right;
+  padding-top: 45px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+.servicio{
+    background-color: rgb(223, 223, 223);
+    padding:40px ;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+.contacto{
+    float: left;
+    margin-top: 40px;
+    margin-left: 130px;
+    font-family: 'Roboto', sans-serif;
+}
+.contacto input{
+    padding: 15px 730px;
+    font-size: 20px;
+    padding-left: 0px;
+}
+.contacto label{
+    font-size: 20px;
+}
+.contacto button{
+    margin: 40px;
+    padding: 20px 470px;
+    margin-left: 0px;
+    background-color: #E8491D;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.contacto h2{
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.mapa{
+    width: 380px;
+    height: 380px;
+    float: right;
+    margin-top: 20px;
+}
+.mapa img{
+    width: 350px;
+    height: 360px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 310px;
+    
+}
+.clear{
+    clear: both;
+}
